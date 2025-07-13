@@ -7,7 +7,7 @@
 ![Actuator](https://img.shields.io/badge/actuator-Stepper%20Motor%20%7C%20Relay-blueviolet.svg)
 ![Simulation](https://img.shields.io/badge/tested-In%20Real%20Environment-yellow.svg)
 
-## Abstract
+## Abstract 
 
 The "Fully Automated Egg Incubator" is a microcontroller-based system designed to regulate temperature, humidity, and periodic egg rotation to ensure optimal hatching conditions. It uses the **ATmega328P** microcontroller, temperature/humidity sensors, and actuators like a stepper motor and relay to fully automate the incubation process.
 
