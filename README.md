@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-ATmega328P-blue.svg)
-![Tool](https://img.shields.io/badge/tool-Arduino%20IDE-lightgrey.svg)
+![Tool](https://img.shields.io/badge/tool-Arduino%20IDE-pink.svg)
 ![Sensor](https://img.shields.io/badge/sensor-DHT11%20%7C%20DS18B20-orange.svg)
 ![Actuator](https://img.shields.io/badge/actuator-Stepper%20Motor%20%7C%20Relay-blueviolet.svg)
 ![Simulation](https://img.shields.io/badge/tested-In%20Real%20Environment-yellow.svg)
